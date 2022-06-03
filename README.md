@@ -1,2 +1,2 @@
 # Portfolio
-There are my portfolio including dashboard , data science , webapp project.
+There are several projects including dashboard , data science , webapp project.
